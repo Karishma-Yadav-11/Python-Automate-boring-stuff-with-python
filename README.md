@@ -47,3 +47,7 @@ Chapter 18: Sending Email and Text Messages Explains how to write programs that 
 Chapter 19: Manipulating Images Explains how to programmatically manipulate images such as JPEG or PNG files.
 
 Chapter 20: Controlling the Keyboard and Mouse with GUI Automation Explains how to programmatically control the mouse and keyboard to automate clicks and keypresses.
+
+
+
+<b>Author : Karishma Yadav
