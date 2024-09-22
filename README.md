@@ -1,5 +1,4 @@
 # Python-Automate-boring-stuff-with-python
-Automate boring stuff with python course practice code
 
 Introduction: A practical programming course for office workers, academics, and administrators who want to improve their productivity.
 
